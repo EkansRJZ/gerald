@@ -1,0 +1,5 @@
+biodata
+
+nama : Gerald yudha sangian
+kelas : 4IA27
+npm : 50422610
